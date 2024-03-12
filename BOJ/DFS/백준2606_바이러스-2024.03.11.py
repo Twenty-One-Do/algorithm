@@ -1,14 +1,3 @@
-'''
-7
-6
-1 2
-2 3
-1 5
-5 2
-5 6
-4 7
-'''
-
 def infect(com, infected):
     global internet, count
     for target in internet[com]:

@@ -1,4 +1,3 @@
-
 n = int(input())
 
 cards =list(range(1,n+1))

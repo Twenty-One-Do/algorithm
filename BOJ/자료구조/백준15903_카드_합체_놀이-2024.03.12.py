@@ -1,7 +1,3 @@
-'''
-4 2
-4 2 3 1
-'''
 import heapq
 n, m = list(map(int,input().split()))
 values = list(map(int,input().split()))

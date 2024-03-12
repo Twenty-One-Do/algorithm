@@ -1,4 +1,4 @@
-## 이걸 어떻게 동적으로 풀죠??
+# 재귀
 def get_cases(n):
     global count
     if n == 0:
@@ -18,8 +18,8 @@ for _ in range(T):
 for c in counts:
     print(c)
 
-# 이건 또 뭐임????? 진짜 뭐임????????
-    
+
+# DP
 T = int(input())
 
 dp = [0 for _ in range(11)]

@@ -1,4 +1,3 @@
-# 이게 통과됨
 def get_cases(i):
     global n, arr, count
     if i == n:

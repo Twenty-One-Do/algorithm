@@ -1,7 +1,3 @@
-'''
-4 6
-a t c i s w
-'''
 l, c = list(map(int,input().split()))
 binarys = []
 for i in range(2**c):

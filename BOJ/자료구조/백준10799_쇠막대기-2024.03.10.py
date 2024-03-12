@@ -16,5 +16,3 @@ for s in input():
             res+=1
 
 print(res)
-
-# (())()(((())))
