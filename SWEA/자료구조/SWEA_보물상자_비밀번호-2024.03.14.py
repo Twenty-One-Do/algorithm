@@ -5,7 +5,6 @@
 16 2
 F53586D76286B2D8
 '''
-from collections import deque
 T = int(input())
 
 for test_case in range(1, T + 1):
